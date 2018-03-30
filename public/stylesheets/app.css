@@ -1,0 +1,24 @@
+i.icon {
+	font-size: 2em;
+}
+
+.main.container{
+	margin-top: 7em;
+	margin-bottom: 7em;
+}
+
+
+#delete{
+	display:inline;
+}
+
+.image img{
+	max-height:120px !important;
+}
+
+.ui.footer { /* Increased specificity for SO snippet priority */
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    font-size: 0.8em;
+ }
